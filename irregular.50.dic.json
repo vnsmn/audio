@@ -1,0 +1,17 @@
+{
+  "lines": [
+    {
+      "inf":["put","[put]"],
+      "pas":["let","[let]"],
+      "prf":["set","[set]"],
+      "rus":["позволять",""]
+    },
+    {
+      "inf":["begin","[begin]"],
+      "pas":["began","[began]"],
+      "prf":["begun","[begun]"],
+      "rus":["начинать",""]
+    }
+  ],
+  "version": "0.0.1"
+}

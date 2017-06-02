@@ -1,17 +1,1 @@
-{
-  "lines": [
-    {
-      "inf":"put",
-      "pas":"let",
-      "prf":"set",
-      "rus":"позволять"
-    },
-    {
-      "inf":"begin",
-      "pas":"began",
-      "prf":"begun",
-      "rus":"начинать"
-    }
-  ],
-  "version": "0.0.1"
-}
+{"lines":[{"inf":"put","pas":"put","prf":"put","rus":"класть"},{"inf":"let","pas":"let","prf":"let","rus":"позволять"},{"inf":"set","pas":"set","prf":"set","rus":"помещать"},{"inf":"read","pas":"read","prf":"read","rus":"читать"},{"inf":"begin","pas":"began","prf":"begun","rus":"начинать"}]}
